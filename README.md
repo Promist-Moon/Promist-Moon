@@ -5,7 +5,7 @@
   - ⚡ Technologies I'm currently targeting are Ruby on Rails, React, and TypeScript. 
 - 💼 I’m working on various projects to enhance my skills, such as a Blog App, a web forum.
 - 💬 Ask me about web development, data science, and open-source contributions.
-- 📫 How to reach me: [emiliaayu944@gmail.com](mailto:emiliaayu944@gmail.com)
+- 📫 How to reach me: [emilia.ayu@u.nus.edu](mailto:emilia.ayu@u.nus.edu)
 
 ## My Skills
 - **Programming Languages:** Python, JavaScript, Java, C++
