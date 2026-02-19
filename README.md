@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I’m currently learning new programming languages and technologies.
-  - ⚡ Technologies I'm currently targeting are Ruby on Rails, React, and TypeScript. 
+  - ⚡ Technologies I'm currently targeting are Python frameworks, React, and Java/TypeScript. 
 - 💼 I’m working on various projects to enhance my skills, such as a Blog App, a web forum.
 - 💬 Ask me about web development, data science, and open-source contributions.
 - 📫 How to reach me: [emilia.ayu@u.nus.edu](mailto:emilia.ayu@u.nus.edu)
